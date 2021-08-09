@@ -83,3 +83,12 @@ reactorProducerKafka/.settings/org.eclipse.m2e.core.prefs
 reactorProducerKafka/.mvn/wrapper/MavenWrapperDownloader.java
 reactorKafkaConsumer/.mvn/wrapper/MavenWrapperDownloader.java
 .gitignore
+reactorKafkaProducer/HELP.md
+reactorKafkaProducer/mvnw
+reactorKafkaProducer/mvnw.cmd
+reactorKafkaProducer/.mvn/wrapper/MavenWrapperDownloader.java
+reactorKafkaProducer/.mvn/wrapper/maven-wrapper.properties
+reactorKafkaProducer/.settings/org.eclipse.core.resources.prefs
+reactorKafkaProducer/.settings/org.eclipse.m2e.core.prefs
+reactorKafkaProducer/.settings/org.eclipse.jdt.core.prefs
+reactorKafkaProducer/.settings/org.eclipse.jdt.apt.core.prefs
